@@ -1,5 +1,3 @@
-# syntax=docker/dockerfile:1
-
 FROM nikolaik/python-nodejs:python3.10-nodejs17FROM nikolaik/python-nodejs:python3.10-nodejs17
 
 WORKDIR /app
